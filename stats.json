@@ -1,3 +1,4 @@
-const OWNER = "LuckyYoungXU";
-const STATS_REPO = "stats";
-const FILE_PATH = "stats.json";
+{
+  "pageView": 0,
+  "downloadClick": 0
+}
